@@ -1,6 +1,6 @@
 {
-  "Validators": "",
-  "Total Staked": "",
-  "Avg. Block Time": "",
-  "Current Epoch": ""
+  "Validators": "Валидаторы",
+  "Total Staked": "Сумма заблокированных в стейкинге токенов  Vega",
+  "Avg. Block Time": "Среднее время блока",
+  "Current Epoch": "Текущая эпоха"
 }
