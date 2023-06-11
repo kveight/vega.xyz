@@ -1,11 +1,11 @@
 ---
 step_title: 2023 H1
-title: Alpha Mainnet
+title: Альфа-Майннет
 ---
 
-## Alpha Mainnet network is live!
+## Сеть Alpha Mainnet запущена!
 
-- Cash settled futures now live
-- Fully decentralised pseudonymous trading
-- Leveraged trading with full cross-margining
-- Permissionless market creation
+- Фьючерсы с наличным расчетом теперь в прямом эфире
+- Полностью децентрализованная псевдонимная торговля
+- Рыночная торговля с полным перекрестным маржированием
+- Создание рынка без разрешений
