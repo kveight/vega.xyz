@@ -1,13 +1,14 @@
 ---
 step_title: 2024 H2
-title: Version 2 Mainnet
+название: Версия 2 Mainnet
 ---
 
-## Protocol V2
+## Протокол V2
 
-Features for V2 are subject to change, however, could include the following:
-- Create your own products, risk models and control other aspects of the protocol using WASM
-- Advanced products like options
-- Enhanced performance and security
-- Core protocol upgrades and simplifications
-- New bridges to other blockchains and/or L2s
+Функции для V2 могут быть изменены, однако, они могут включать следующее:
+- Создание собственных продуктов, моделей риска и контроль других аспектов протокола с помощью WASM.
+- Расширенные продукты, такие как опции
+- Повышенная производительность и безопасность
+- Модернизация и упрощение основного протокола
+- Новые мосты к другим блокчейнам и/или L2
+
