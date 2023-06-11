@@ -1,10 +1,10 @@
 ---
 step_title: 2023 H2
-title: Version 1 Mainnet
+title: Версия 1 Mainnet
 ---
 
-## Final launch phase
+## Окончательный этап запуска
 
-- Temporary limits lifted through community governance
-- New innovations and improvements from feedback e.g., successor markets, governance transfers, stop orders and iceberg orders
-- Introduction of spot markets, perpetuals, liquidity SLAs, Ethereum oracles and margin segregation
+- Временные ограничения сняты посредством управления сообществом
+- Новые инновации и улучшения на основе обратной связи, например, рынки-преемники, передача управления, стоп-ордера и айсберг-ордера
+- Внедрение спотовых рынков, бессрочных контрактов, SLA ликвидности, оракулов Ethereum и сегрегации маржи
