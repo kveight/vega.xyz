@@ -19,5 +19,5 @@
   "Become a Mainnet Validator": "Стать валидатором сети",
   "Any participant in the Vega network can become a validator. You'll need to set up a node and its infrastructure, submit a transaction on chain, self-stake <2></2> and attract token holders to stake (delegate) their tokens to you.": "Валидатором может стать любой участник сети Vega. Для этого необходимо создать узел и его инфраструктуру, провести транзакцию по цепи, самостоятельно разместить <2></2> и привлечь держателей токенов к размещению (делегированию) своих токенов.",
   "Those with the highest <2>validator scores</2> (a measure of performance and stake) become consensus validators and earn the greatest rewards from infrastructure fees paid on every trade and transfer, with a portion distributed to stakers and standby validators. The <6>validators list</6> is refreshed every epoch <10></10>.": "Лица, набравшие наибольшее количество баллов <2>validator scores</2> (мера эффективности и заинтересованности), становятся валидаторами консенсуса и получают наибольшее вознаграждение за счет инфраструктурных сборов, выплачиваемых с каждой сделки и перевода, часть которых распределяется между стейкерами и резервными валидаторами. Список <6> валидаторов</6> обновляется каждую эпоху <10></10>.",
-  "Become a Mainnet validator": ""
+  "Become a Mainnet validator": "Станьте валидатором Mainnet"
 }
